@@ -1,8 +1,6 @@
-# Presentations
+# Various talks and presentations
 
-## Various talks and presentations
-
-**Let's talk about Open source:** `(Open Source - pratiques et usages (FR) - Nov2022.pdf)`
+**Let's talk about Open source:** :fr: `(Open Source - pratiques et usages (FR) - Nov2022.pdf)`
  - why open source exists
    - object (binary) code, machine language, C language
    - closed source VS open source
