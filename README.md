@@ -21,13 +21,17 @@
    - Dear ImGui
    - BabylonJS
 
-## PyConFR demonstration of PygBag x Harfang 3D
+## PyConFR demonstration of PygBag x Harfang 3D :fr:
 
 [Portage Python sur Webassembly](https://github.com/harfang3d/pyconfr2023/blob/main/visuels/Portage-Python-sur-Webassembly-PyConFR2023.pdf)
 
 _Pour quoi, pour qui et comment ?_
 
 Talk d'une heure présenté à la PyConFR 2023 à Bordeaux. Un tour d'horizon et historique sur le problème du portage d'applications et une proposition de solution s'appuyant sur Python et WASM.
+
+## Repository : 
+
+https://github.com/harfang3d/pyconfr2023
 
 ### Orateurs : 
 
